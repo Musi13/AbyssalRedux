@@ -1,0 +1,547 @@
+[
+	{
+		"comment": "mystery_box",
+		"boxId": 6199,
+		"rewardTable": [
+			{
+				"comment": "#",
+				"itemId": 386,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 100
+			},
+			{
+				"comment": "#",
+				"itemId": 555,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 900
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 500000,
+				"rarity": 5,
+				"random": 4500000 
+			},
+			{
+				"comment": "#",
+				"itemId": 565,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 900
+			},
+			{
+				"comment": "#",
+				"itemId": 560,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 900
+			},
+			{
+				"comment": "#",
+				"itemId": 9075,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 900
+			},
+			{
+				"comment": "#",
+				"itemId": 452,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 400
+			},
+			{
+				"comment": "#",
+				"itemId": 450,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 400
+			},
+			{
+				"comment": "#",
+				"itemId": 9075,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 900
+			},
+			{
+				"comment": "#",
+				"itemId": 2364,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 100
+			},
+			{
+				"comment": "#",
+				"itemId": 2362,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 200
+			},
+			{
+				"comment": "#",
+				"itemId": 1632,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 20
+			},
+			{
+				"comment": "#",
+				"itemId": 6571,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 6570,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 1
+			},
+			{
+				"comment": "#",
+				"itemId": 12006,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 13442,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 100
+			},
+			{
+				"comment": "#",
+				"itemId": 2441,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 20
+			},
+			{
+				"comment": "#",
+				"itemId": 2437,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 20
+			},
+			{
+				"comment": "#",
+				"itemId": 3025,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 20
+			},
+			{
+				"comment": "#",
+				"itemId": 11802,
+				"itemAmount": 1,
+				"rarity": 912,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 11804,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 11806,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 11808,
+				"itemAmount": 1,
+				"rarity": 412,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 11840,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "Abyssal Whip",
+				"itemId": 4151,
+				"itemAmount": 1,
+				"rarity": 85,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4716,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4718,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4720,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4722,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1038,
+				"itemAmount": 1,
+				"rarity": 1128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1040,
+				"itemAmount": 1,
+				"rarity": 1128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1042,
+				"itemAmount": 1,
+				"rarity": 1128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1044,
+				"itemAmount": 1,
+				"rarity": 1128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1053,
+				"itemAmount": 1,
+				"rarity": 912,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1055,
+				"itemAmount": 1,
+				"rarity": 912,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1057,
+				"itemAmount": 1,
+				"rarity": 912,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 3140,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4087,
+				"itemAmount": 1,
+				"rarity": 100,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4585,
+				"itemAmount": 1,
+				"rarity": 100,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 7462,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4753,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4755,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4757,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4759,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4745,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4747,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4749,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4751,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4708,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4710,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4712,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4714,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4732,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4734,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4736,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4738,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4740,
+				"itemAmount": 100,
+				"rarity": 25,
+				"random": 400
+			},
+			{
+				"comment": "#",
+				"itemId": 4724,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4726,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4728,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4730,
+				"itemAmount": 1,
+				"rarity": 35,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 11926,
+				"itemAmount": 1,
+				"rarity": 65,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 11924,
+				"itemAmount": 1,
+				"rarity": 65,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 6737,
+				"itemAmount": 1,
+				"rarity": 25,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 6733,
+				"itemAmount": 1,
+				"rarity": 25,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 6731,
+				"itemAmount": 1,
+				"rarity": 25,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 11832,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 11834,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 11836,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 11826,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 11828,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 11830,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 6714,
+				"itemAmount": 1,
+				"rarity": 45,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 6920,
+				"itemAmount": 1,
+				"rarity": 45,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 11838,
+				"itemAmount": 1,
+				"rarity": 812,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 6585,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1050,
+				"itemAmount": 1,
+				"rarity": 812,
+				"random": 0
+			}
+		]
+	}
+]

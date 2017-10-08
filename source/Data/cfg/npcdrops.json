@@ -1,0 +1,10768 @@
+[
+	{
+		"comment": "#",
+		"npcId": 448,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Leather gloves",
+				"itemId": 1059,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Sapphire ring",
+				"itemId": 1637,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Emerald ring",
+				"itemId": 1639,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Gold ring",
+				"itemId": 1635,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 44200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ashes",
+				"itemId": 592,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mystic gloves (light)",
+				"itemId": 4115,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (easy)",
+				"itemId": 10228,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "Lesser Demon",
+		"npcId": 2005,
+		"npcDrops": [
+			{
+				"comment": "#",
+				"itemId": 592,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1353,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1325,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1157,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1313,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1181,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1109,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1147,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1195,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 554,
+				"itemAmount": 30,
+				"rarity": 5,
+				"random": 30
+			},
+			{
+				"comment": "#",
+				"itemId": 562,
+				"itemAmount": 12,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 4449
+			},
+			{
+				"comment": "#",
+				"itemId": 444,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1193,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "blue dragon",
+		"npcId": 265,
+		"npcDrops": [
+			{
+				"comment": "#",
+				"itemId": 1751,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 536,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1565,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1355,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1243,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1069,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1197,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1161,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1213,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 555,
+				"itemAmount": 75,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 561,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 554,
+				"itemAmount": 37,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 563,
+				"itemAmount": 3,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 11,
+				"rarity": 5,
+				"random": 3339
+			},
+			{
+				"comment": "#",
+				"itemId": 449,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 365,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "black demon",
+		"npcId": 5874,
+		"npcDrops": [
+			{
+				"comment": "#",
+				"itemId": 592,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1365,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1361,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1283,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1197,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1147,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1113,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 556,
+				"itemAmount": 50,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 554,
+				"itemAmount": 37,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 562,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 5
+			},
+			{
+				"comment": "#",
+				"itemId": 563,
+				"itemAmount": 3,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 17000
+			},
+			{
+				"comment": "#",
+				"itemId": 133,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 2361,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 379,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "Hellhound",
+		"npcId": 3133,
+		"npcDrops": [
+			{
+				"comment": "#",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 9000
+			},
+			{
+				"comment": "#",
+				"itemId": 13233,
+				"itemAmount": 1,
+				"rarity": 32768,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 64,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "Black Dragon",
+		"npcId": 259,
+		"npcDrops": [
+			{
+				"comment": "#",
+				"itemId": 1747,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 536,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1355,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1369,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1197,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1315,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1073,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1303,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 810,
+				"itemAmount": 16,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 829,
+				"itemAmount": 30,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 554,
+				"itemAmount": 50,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 868,
+				"itemAmount": 2,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 556,
+				"itemAmount": 75,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 563,
+				"itemAmount": 10,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 565,
+				"itemAmount": 15,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 196,
+				"rarity": 5,
+				"random": 6990
+			},
+			{
+				"comment": "#",
+				"itemId": 2361,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 1
+			},
+			{
+				"comment": "#",
+				"itemId": 1897,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 11286,
+				"itemAmount": 1,
+				"rarity": 10000,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "Chaos druid",
+		"npcId": 2878,
+		"npcDrops": [
+			{
+				"comment": "#",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 1
+			},
+			{
+				"comment": "#",
+				"itemId": 249,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 1
+			},
+			{
+				"comment": "#",
+				"itemId": 201,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 1
+			},
+			{
+				"comment": "#",
+				"itemId": 253,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 1
+			},
+			{
+				"comment": "#",
+				"itemId": 205,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 1
+			},
+			{
+				"comment": "#",
+				"itemId": 259,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 1
+			},
+			{
+				"comment": "#",
+				"itemId": 213,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 1
+			},
+			{
+				"comment": "#",
+				"itemId": 257,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 1
+			},
+			{
+				"comment": "#",
+				"itemId": 2481,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 1
+			},
+			{
+				"comment": "#",
+				"itemId": 217,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 1
+			},
+			{
+				"comment": "#",
+				"itemId": 215,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 1
+			},
+			{
+				"comment": "#",
+				"itemId": 9142,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 10
+			},
+			{
+				"comment": "#",
+				"itemId": 1291,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 8,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 29,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 35,
+				"rarity": 5,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "Chaos Dwarf",
+		"npcId": 291,
+		"npcDrops": [
+			{
+				"comment": "#",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1157,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1299,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1181,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1165,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 555,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 556,
+				"itemAmount": 12,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 556,
+				"itemAmount":24,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 558,
+				"itemAmount": 37,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 562,
+				"itemAmount": 10,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 562,
+				"itemAmount": 37,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 561,
+				"itemAmount": 9,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 561,
+				"itemAmount": 18,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 563,
+				"itemAmount": 3,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 563,
+				"itemAmount": 6,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 560,
+				"itemAmount": 3,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 560,
+				"itemAmount": 6,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 25,
+				"rarity": 5,
+				"random": 425
+			},
+			{
+				"comment": "#",
+				"itemId": 453,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 991,
+				"itemAmount": 1,
+				"rarity": 64,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1985,
+				"itemAmount": 1,
+				"rarity": 20,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 2359,
+				"itemAmount": 1,
+				"rarity": 20,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1982,
+				"itemAmount": 1,
+				"rarity": 20,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 157,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "Skeleton",
+		"npcId": 70,
+			"npcDrops": [
+			{
+				"comment": "#",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1203,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1349,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1137,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1420,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1279,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1323,
+				"itemAmount": 1,
+				"rarity": 20,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1199,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1247,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 882,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 10
+			},
+			{
+				"comment": "#",
+				"itemId": 556,
+				"itemAmount": 12,
+				"rarity": 5,
+				"random": 4
+			},
+			{
+				"comment": "#",
+				"itemId": 555,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 7
+			},
+			{
+				"comment": "#",
+				"itemId": 557,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 2
+			},
+			{
+				"comment": "#",
+				"itemId": 554,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 558,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 24
+			},
+			{
+				"comment": "#",
+				"itemId": 562,
+				"itemAmount": 3,
+				"rarity": 10,
+				"random": 5
+			},
+			{
+				"comment": "#",
+				"itemId": 561,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 2
+			},
+			{
+				"comment": "#",
+				"itemId": 563,
+				"itemAmount": 2,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 884,
+				"itemAmount": 12,
+				"rarity": 10,
+				"random": 3
+			},
+			{
+				"comment": "#",
+				"itemId": 886,
+				"itemAmount": 1,
+				"rarity": 20,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 830,
+				"itemAmount": 5,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 64
+			},
+			{
+				"comment": "#",
+				"itemId": 2801,
+				"itemAmount": 1,
+				"rarity": 5000,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 260,
+		"npcDrops": [
+			{
+				"comment": "Green dragonhide",
+				"itemId": 1753,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Dragon bones",
+				"itemId": 536,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Irit leaf",
+				"itemId": 259,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy harralander",
+				"itemId": 205,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Guam leaf",
+				"itemId": 249,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy avantoe",
+				"itemId": 211,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy cadantine",
+				"itemId": 215,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy marrentill",
+				"itemId": 201,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy tarromin",
+				"itemId": 203,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ranarr weed",
+				"itemId": 257,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy kwuarm",
+				"itemId": 213,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Lantadyme",
+				"itemId": 2481,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy dwarf weed",
+				"itemId": 217,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel battleaxe",
+				"itemId": 1365,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel platelegs",
+				"itemId": 1069,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril axe",
+				"itemId": 1355,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril spear",
+				"itemId": 1243,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril kiteshield",
+				"itemId": 1197,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamant full helm",
+				"itemId": 1161,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune dagger",
+				"itemId": 1213,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 440,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Bass",
+				"itemId": 365,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Water rune",
+				"itemId": 555,
+				"itemAmount": 75,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 37,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Looting bag",
+				"itemId": 11941,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamantite ore",
+				"itemId": 449,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon boots",
+				"itemId": 11840,
+				"itemAmount": 1,
+				"rarity": 54,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (hard)",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 54,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "Kraken",
+		"npcId": 494,
+		"npcDrops": [
+			{
+				"comment": "#",
+				"itemId": 7114,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1403,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1347,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1303,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4091,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4093,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 11905,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 555,
+				"itemAmount": 400,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4695,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 562,
+				"itemAmount": 250,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 560,
+				"itemAmount": 150,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 565,
+				"itemAmount": 60,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 566,
+				"itemAmount": 50,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 5321,
+				"itemAmount": 24,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 5304,
+				"itemAmount": 2,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 402,
+				"itemAmount": 125,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1392,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 568,
+				"itemAmount": 50,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 8779,
+				"itemAmount": 60,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 2363,
+				"itemAmount": 2,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 384,
+				"itemAmount": 50,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 7945,
+				"itemAmount": 100,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 3001,
+				"itemAmount": 6,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 100000,
+				"rarity": 5,
+				"random": 100000
+			},
+			{
+				"comment": "#",
+				"itemId": 385,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 403,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId":311,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1925,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 989,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1645,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 12004,
+				"itemAmount": 1,
+				"rarity": 400,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 12007,
+				"itemAmount": 1,
+				"rarity": 1000,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 2250,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Bronze spear",
+				"itemId": 1237,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Iron spear",
+				"itemId": 1239,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril spear",
+				"itemId": 1243,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cactus seed",
+				"itemId": 5280,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Poison ivy seed",
+				"itemId": 5106,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Belladonna seed",
+				"itemId": 5281,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Irit seed",
+				"itemId": 5297,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Avantoe seed",
+				"itemId": 5298,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Toadflax seed",
+				"itemId": 5296,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Snapdragon seed",
+				"itemId": 5300,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cadantine seed",
+				"itemId": 5301,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Kwuarm seed",
+				"itemId": 5299,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Lantadyme seed",
+				"itemId": 5302,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dwarf weed seed",
+				"itemId": 5303,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril javelin",
+				"itemId": 828,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Harpoon",
+				"itemId": 311,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Lobster pot",
+				"itemId": 301,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fishing bait",
+				"itemId": 313,
+				"itemAmount": 50,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Feather",
+				"itemId": 314,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Raw sardine",
+				"itemId": 327,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Raw herring",
+				"itemId": 345,
+				"itemAmount": 4,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Seaweed",
+				"itemId": 401,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Oyster pearls",
+				"itemId": 413,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Oyster pearls",
+				"itemId": 413,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Raw lobster",
+				"itemId": 377,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Raw tuna",
+				"itemId": 359,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 25,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 41,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 44,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 56,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Water rune",
+				"itemId": 555,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dagannoth ribs",
+				"itemId": 7857,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Casket",
+				"itemId": 405,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Opal bolt tips",
+				"itemId": 45,
+				"itemAmount": 12,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Torstol seed",
+				"itemId": 5304,
+				"itemAmount": 1,
+				"rarity": 29,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (easy)",
+				"itemId": 10228,
+				"itemAmount": 1,
+				"rarity": 29,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (medium)",
+				"itemId": 2801,
+				"itemAmount": 1,
+				"rarity": 29,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 1610,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 50000,
+				"rarity": 5,
+				"random": 50000
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Water rune",
+				"itemId": 555,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Air rune",
+				"itemId": 556,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Earth rune",
+				"itemId": 557,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mind rune",
+				"itemId": 558,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Body rune",
+				"itemId": 559,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Death rune",
+				"itemId": 560,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Law rune",
+				"itemId": 563,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cosmic rune",
+				"itemId": 564,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Blood rune",
+				"itemId": 565,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Soul rune",
+				"itemId": 566,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Infinity top",
+				"itemId": 6916,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Infinity hat",
+				"itemId": 6918,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Infinity boots",
+				"itemId": 6920,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Infinity gloves",
+				"itemId": 6922,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Mage's book",
+				"itemId": 6889,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Master wand",
+				"itemId": 6914,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (easy)",
+				"itemId": 10228,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 11,
+		"npcDrops": [
+			{
+				"comment": "Ashes",
+				"itemId": 592,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Steel 2h sword",
+				"itemId": 1311,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel axe",
+				"itemId": 1353,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel battleaxe",
+				"itemId": 1365,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril kiteshield",
+				"itemId": 1197,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamant platelegs",
+				"itemId": 1073,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune full helm",
+				"itemId": 1163,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Death rune",
+				"itemId": 560,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Death rune",
+				"itemId": 560,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 37,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 460000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Thread",
+				"itemId": 1734,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Tuna",
+				"itemId": 361,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Gold bar",
+				"itemId": 2357,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune boots",
+				"itemId": 4131,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (hard)",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 1611,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 50000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Water rune",
+				"itemId": 555,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Air rune",
+				"itemId": 556,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Earth rune",
+				"itemId": 557,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mind rune",
+				"itemId": 558,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Body rune",
+				"itemId": 559,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Death rune",
+				"itemId": 560,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Law rune",
+				"itemId": 563,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cosmic rune",
+				"itemId": 564,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Blood rune",
+				"itemId": 565,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Soul rune",
+				"itemId": 566,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Infinity top",
+				"itemId": 6916,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Infinity hat",
+				"itemId": 6918,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Infinity boots",
+				"itemId": 6920,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Infinity gloves",
+				"itemId": 6922,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Mage's book",
+				"itemId": 6889,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Master wand",
+				"itemId": 6914,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (easy)",
+				"itemId": 10228,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 1612,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 50000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Water rune",
+				"itemId": 555,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Air rune",
+				"itemId": 556,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Earth rune",
+				"itemId": 557,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mind rune",
+				"itemId": 558,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Body rune",
+				"itemId": 559,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Death rune",
+				"itemId": 560,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Law rune",
+				"itemId": 563,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cosmic rune",
+				"itemId": 564,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Blood rune",
+				"itemId": 565,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Soul rune",
+				"itemId": 566,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Infinity top",
+				"itemId": 6916,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Infinity hat",
+				"itemId": 6918,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Infinity boots",
+				"itemId": 6920,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Infinity gloves",
+				"itemId": 6922,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Mage's book",
+				"itemId": 6889,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Master wand",
+				"itemId": 6914,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (easy)",
+				"itemId": 10228,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 6609,
+		"npcDrops": [
+			{
+				"comment": "Big bones",
+				"itemId": 532,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Rune pickaxe",
+				"itemId": 1275,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune 2h sword",
+				"itemId": 1319,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Soul rune",
+				"itemId": 566,
+				"itemAmount": 250,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Death rune",
+				"itemId": 560,
+				"itemAmount": 300,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 400,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Blood rune",
+				"itemId": 565,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Snapdragon seed",
+				"itemId": 5300,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ranarr seed",
+				"itemId": 5295,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dark crab",
+				"itemId": 11936,
+				"itemAmount": 8,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Super restore(4)",
+				"itemId": 3024,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 2000000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Uncut ruby",
+				"itemId": 1620,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Uncut diamond",
+				"itemId": 1618,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coconut",
+				"itemId": 5975,
+				"itemAmount": 60,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Crushed nest",
+				"itemId": 6694,
+				"itemAmount": 75,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cannonball",
+				"itemId": 2,
+				"itemAmount": 250,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Magic logs",
+				"itemId": 1514,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Limpwurt root",
+				"itemId": 226,
+				"itemAmount": 50,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Red dragonhide",
+				"itemId": 1750,
+				"itemAmount": 75,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mahogany logs",
+				"itemId": 8836,
+				"itemAmount": 400,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon pickaxe",
+				"itemId": 11920,
+				"itemAmount": 1,
+				"rarity": 49,
+				"random": 0
+			},
+			{
+				"comment": "Dragon 2h sword",
+				"itemId": 7158,
+				"itemAmount": 1,
+				"rarity": 49,
+				"random": 0
+			},
+			{
+				"comment": "Tyrannical ring",
+				"itemId": 12603,
+				"itemAmount": 1,
+				"rarity": 49,
+				"random": 0
+			},
+			{
+				"comment": "Yew seed",
+				"itemId": 5315,
+				"itemAmount": 1,
+				"rarity": 49,
+				"random": 0
+			},
+			{
+				"comment": "Magic seed",
+				"itemId": 5316,
+				"itemAmount": 1,
+				"rarity": 49,
+				"random": 0
+			},
+			{
+				"comment": "Palm tree seed",
+				"itemId": 5289,
+				"itemAmount": 1,
+				"rarity": 49,
+				"random": 0
+			},
+			{
+				"comment": "Uncut dragonstone",
+				"itemId": 1631,
+				"itemAmount": 1,
+				"rarity": 49,
+				"random": 0
+			},
+			{
+				"comment": "Toadflax",
+				"itemId": 2999,
+				"itemAmount": 100,
+				"rarity": 49,
+				"random": 0
+			},
+			{
+				"comment": "Dark fishing bait",
+				"itemId": 11940,
+				"itemAmount": 375,
+				"rarity": 49,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 6611,
+		"npcDrops": [
+			{
+				"comment": "Dagannoth hide",
+				"itemId": 6155,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Big bones",
+				"itemId": 532,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Rune pickaxe",
+				"itemId": 1275,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ancient staff",
+				"itemId": 4675,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon 2h sword",
+				"itemId": 7158,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 400,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Death rune",
+				"itemId": 560,
+				"itemAmount": 300,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Blood rune",
+				"itemId": 565,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dark crab",
+				"itemId": 11936,
+				"itemAmount": 8,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Super restore(4)",
+				"itemId": 3024,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Sanfew serum(4)",
+				"itemId": 10926,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 2000000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ogre coffin key",
+				"itemId": 4851,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Limpwurt root",
+				"itemId": 226,
+				"itemAmount": 50,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Uncut ruby",
+				"itemId": 1620,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Uncut diamond",
+				"itemId": 1618,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Magic logs",
+				"itemId": 1514,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Gold ore",
+				"itemId": 445,
+				"itemAmount": 300,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon bones",
+				"itemId": 537,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Uncut dragonstone",
+				"itemId": 1631,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Oak plank",
+				"itemId": 8779,
+				"itemAmount": 300,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune 2h sword",
+				"itemId": 1319,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Ring of the gods",
+				"itemId": 12601,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Dragon pickaxe",
+				"itemId": 11920,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Cannonball",
+				"itemId": 2,
+				"itemAmount": 250,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Magic seed",
+				"itemId": 5316,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Palm tree seed",
+				"itemId": 5289,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Yew seed",
+				"itemId": 5315,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Dark fishing bait",
+				"itemId": 11940,
+				"itemAmount": 375,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Ranarr weed",
+				"itemId": 258,
+				"itemAmount": 100,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Long bone",
+				"itemId": 10976,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Curved bone",
+				"itemId": 10977,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 6615,
+		"npcDrops": [
+			{
+				"comment": "Phoenix necklace",
+				"itemId": 11090,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune chainbody",
+				"itemId": 1113,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune pickaxe",
+				"itemId": 1275,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune scimitar",
+				"itemId": 1333,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune spear",
+				"itemId": 1247,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune sword",
+				"itemId": 1289,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune warhammer",
+				"itemId": 1347,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune 2h sword",
+				"itemId": 1319,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 3900080,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Part admiral pie",
+				"itemId": 7192,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Anchovy pizza",
+				"itemId": 2298,
+				"itemAmount": 8,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Bucket of sand",
+				"itemId": 1784,
+				"itemAmount": 25,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cactus spine",
+				"itemId": 6017,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Prayer potion(4)",
+				"itemId": 2434,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Shark",
+				"itemId": 385,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Uncut sapphire",
+				"itemId": 1624,
+				"itemAmount": 4,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Uncut emerald",
+				"itemId": 1622,
+				"itemAmount": 6,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dust rune",
+				"itemId": 4696,
+				"itemAmount": 30,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Super restore(4)",
+				"itemId": 3024,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon scimitar",
+				"itemId": 4587,
+				"itemAmount": 1,
+				"rarity": 54,
+				"random": 0
+			},
+			{
+				"comment": "Odium shard 3",
+				"itemId": 11930,
+				"itemAmount": 1,
+				"rarity": 54,
+				"random": 0
+			},
+			{
+				"comment": "Malediction shard 3",
+				"itemId": 11933,
+				"itemAmount": 1,
+				"rarity": 54,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 2265,
+		"npcDrops": [
+			{
+				"comment": "Dagannoth hide",
+				"itemId": 6155,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Dagannoth bones",
+				"itemId": 6729,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 3000000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamant dart",
+				"itemId": 810,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Spined body",
+				"itemId": 6133,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Spined chaps",
+				"itemId": 6135,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Spined helm",
+				"itemId": 6131,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril knife",
+				"itemId": 866,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Bronze knife",
+				"itemId": 864,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune javelin",
+				"itemId": 830,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Archer helm",
+				"itemId": 3749,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Silver bar",
+				"itemId": 2356,
+				"itemAmount": 50,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite bar",
+				"itemId": 2363,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Shield left half",
+				"itemId": 2366,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Red d'hide vamb",
+				"itemId": 2489,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel knife",
+				"itemId": 865,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune thrownaxe",
+				"itemId": 805,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Diamond",
+				"itemId": 1602,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ruby",
+				"itemId": 1604,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Emerald",
+				"itemId": 1606,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Sapphire",
+				"itemId": 1608,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Silver ore",
+				"itemId": 443,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon axe",
+				"itemId": 6739,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Archers ring",
+				"itemId": 6733,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (hard)",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 3162,
+		"npcDrops": [
+			{
+				"comment": "Feather",
+				"itemId": 314,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 15
+			},
+			{
+				"comment": "Big bones",
+				"itemId": 532,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Rune crossbow",
+				"itemId": 9185,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite bolts",
+				"itemId": 9144,
+				"itemAmount": 25,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mind rune",
+				"itemId": 558,
+				"itemAmount": 601,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune arrow",
+				"itemId": 892,
+				"itemAmount": 105,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon bolts (e)",
+				"itemId": 9244,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Black d'hide body",
+				"itemId": 2503,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 2100000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dwarf weed",
+				"itemId": 268,
+				"itemAmount": 25,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dwarf weed seed",
+				"itemId": 5303,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune sword",
+				"itemId": 1289,
+				"itemAmount": 1,
+				"rarity": 54,
+				"random": 0
+			},
+			{
+				"comment": "Armadyl helmet",
+				"itemId": 11826,
+				"itemAmount": 1,
+				"rarity": 250,
+				"random": 0
+			},
+			{
+				"comment": "Armadyl chestplate",
+				"itemId": 11828,
+				"itemAmount": 1,
+				"rarity": 250,
+				"random": 0
+			},
+			{
+				"comment": "Armadyl chainskirt",
+				"itemId": 11830,
+				"itemAmount": 1,
+				"rarity": 250,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 1",
+				"itemId": 11818,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 2",
+				"itemId": 11820,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 3",
+				"itemId": 11822,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Crystal key",
+				"itemId": 989,
+				"itemAmount": 1,
+				"rarity": 54,
+				"random": 0
+			},
+			{
+				"comment": "Armadyl hilt",
+				"itemId": 11810,
+				"itemAmount": 1,
+				"rarity": 508,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 6618,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Amulet of power",
+				"itemId": 1731,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Red d'hide body",
+				"itemId": 2501,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune knife",
+				"itemId": 868,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune crossbow",
+				"itemId": 9185,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mud rune",
+				"itemId": 4698,
+				"itemAmount": 30,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy dwarf weed",
+				"itemId": 218,
+				"itemAmount": 4,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Shark",
+				"itemId": 385,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Anchovy pizza",
+				"itemId": 2298,
+				"itemAmount": 8,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Potato with cheese",
+				"itemId": 6706,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Prayer potion(4)",
+				"itemId": 2434,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 400000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Silver ore",
+				"itemId": 443,
+				"itemAmount": 40,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rusty sword",
+				"itemId": 686,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Uncut sapphire",
+				"itemId": 1624,
+				"itemAmount": 4,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Uncut emerald",
+				"itemId": 1622,
+				"itemAmount": 6,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cannonball",
+				"itemId": 2,
+				"itemAmount": 150,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Muddy key",
+				"itemId": 991,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Red dragonhide",
+				"itemId": 1750,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "White berries",
+				"itemId": 240,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Onyx bolt tips",
+				"itemId": 9194,
+				"itemAmount": 12,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Long bone",
+				"itemId": 10976,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril platebody",
+				"itemId": 1121,
+				"itemAmount": 75,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Fedora",
+				"itemId": 11990,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Odium shard 2",
+				"itemId": 11929,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Malediction shard 2",
+				"itemId": 11932,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (easy)",
+				"itemId": 10228,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 2266,
+		"npcDrops": [
+			{
+				"comment": "Dagannoth hide",
+				"itemId": 6155,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Dagannoth bones",
+				"itemId": 6729,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 300000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Air battlestaff",
+				"itemId": 1397,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Battlestaff",
+				"itemId": 1392,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Earth battlestaff",
+				"itemId": 1399,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mud battlestaff",
+				"itemId": 6562,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune 2h sword",
+				"itemId": 1319,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Staff of air",
+				"itemId": 1381,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Staff of earth",
+				"itemId": 1385,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Water battlestaff",
+				"itemId": 1395,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon med helm",
+				"itemId": 1149,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Farseer helm",
+				"itemId": 3755,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune kiteshield",
+				"itemId": 1201,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune sq shield",
+				"itemId": 1185,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Skeletal bottoms",
+				"itemId": 6141,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Skeletal top",
+				"itemId": 6139,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Air rune",
+				"itemId": 556,
+				"itemAmount": 518,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Blood rune",
+				"itemId": 565,
+				"itemAmount": 57,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Death rune",
+				"itemId": 560,
+				"itemAmount": 97,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Earth rune",
+				"itemId": 557,
+				"itemAmount": 107,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Law rune",
+				"itemId": 563,
+				"itemAmount": 78,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 98,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune arrow",
+				"itemId": 892,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 179,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Air talisman",
+				"itemId": 1439,
+				"itemAmount": 59,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Body talisman",
+				"itemId": 1446,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Earth talisman",
+				"itemId": 1441,
+				"itemAmount": 58,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy ranarr weed",
+				"itemId": 207,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite bar",
+				"itemId": 2364,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Raw sea turtle",
+				"itemId": 395,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Diamond",
+				"itemId": 1602,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon axe",
+				"itemId": 6739,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Berserker ring",
+				"itemId": 6737,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (hard)",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 6619,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Zamorak robe",
+				"itemId": 1033,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Zamorak robe",
+				"itemId": 1035,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Battlestaff",
+				"itemId": 1392,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ring of life",
+				"itemId": 2570,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Splitbark body",
+				"itemId": 3387,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Splitbark legs",
+				"itemId": 3389,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Smoke rune",
+				"itemId": 4697,
+				"itemAmount": 30,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 250,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 175,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Blood rune",
+				"itemId": 565,
+				"itemAmount": 50,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Lantadyme",
+				"itemId": 2482,
+				"itemAmount": 4,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Anchovy pizza",
+				"itemId": 2298,
+				"itemAmount": 8,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Monkfish",
+				"itemId": 7946,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Shark",
+				"itemId": 385,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Prayer potion(4)",
+				"itemId": 2434,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 400000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Uncut sapphire",
+				"itemId": 1624,
+				"itemAmount": 4,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Uncut emerald",
+				"itemId": 1622,
+				"itemAmount": 6,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos talisman",
+				"itemId": 1452,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature talisman",
+				"itemId": 1462,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Pure essence",
+				"itemId": 7937,
+				"itemAmount": 250,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Wine of zamorak",
+				"itemId": 246,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Sinister key",
+				"itemId": 993,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ancient staff",
+				"itemId": 4675,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Odium shard 1",
+				"itemId": 11928,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Malediction shard 1",
+				"itemId": 11931,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (easy)",
+				"itemId": 10228,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 2267,
+		"npcDrops": [
+			{
+				"comment": "Dagannoth hide",
+				"itemId": 6155,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Dagannoth bones",
+				"itemId": 6729,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 300000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril axe",
+				"itemId": 1355,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril 2h sword",
+				"itemId": 1315,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril warhammer",
+				"itemId": 1343,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamant axe",
+				"itemId": 1357,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamant javelin",
+				"itemId": 829,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune axe",
+				"itemId": 1359,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune battleaxe",
+				"itemId": 1373,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune 2h sword",
+				"itemId": 1319,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune javelin",
+				"itemId": 830,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune spear",
+				"itemId": 1247,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fremennik blade",
+				"itemId": 3757,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon med helm",
+				"itemId": 1149,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rock-shell legs",
+				"itemId": 6130,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rock-shell plate",
+				"itemId": 6129,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamant platebody",
+				"itemId": 1123,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel kiteshield",
+				"itemId": 1193,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel platebody",
+				"itemId": 1119,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fremennik helm",
+				"itemId": 3748,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fremennik shield",
+				"itemId": 3758,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune sq shield",
+				"itemId": 1185,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune kiteshield",
+				"itemId": 1201,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune arrow",
+				"itemId": 892,
+				"itemAmount": 57,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 58,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Law rune",
+				"itemId": 563,
+				"itemAmount": 78,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy ranarr weed",
+				"itemId": 207,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril ore",
+				"itemId": 448,
+				"itemAmount": 27,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coal",
+				"itemId": 454,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Iron ore",
+				"itemId": 441,
+				"itemAmount": 150,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite bar",
+				"itemId": 2364,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamantite bar",
+				"itemId": 2362,
+				"itemAmount": 6,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Bass",
+				"itemId": 365,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Swordfish",
+				"itemId": 373,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Shark",
+				"itemId": 385,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Zamorak brew(2)",
+				"itemId": 191,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Prayer potion(2)",
+				"itemId": 141,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Super defence(2)",
+				"itemId": 165,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Super strength(2)",
+				"itemId": 159,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragonstone",
+				"itemId": 1616,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Diamond",
+				"itemId": 1602,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon axe",
+				"itemId": 6739,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Warrior ring",
+				"itemId": 6735,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Berserker ring",
+				"itemId": 6737,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (hard)",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 3163,
+		"npcDrops": [
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Smoke rune",
+				"itemId": 4697,
+				"itemAmount": 25,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Manta ray",
+				"itemId": 391,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mushroom potato",
+				"itemId": 7058,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel dart",
+				"itemId": 808,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 150000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy kwuarm",
+				"itemId": 213,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Armadyl helmet",
+				"itemId": 11826,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Armadyl chestplate",
+				"itemId": 11828,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Armadyl chainskirt",
+				"itemId": 11830,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 1",
+				"itemId": 11818,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 2",
+				"itemId": 11820,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 3",
+				"itemId": 11822,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 3164,
+		"npcDrops": [
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Smoke rune",
+				"itemId": 4697,
+				"itemAmount": 25,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Manta ray",
+				"itemId": 391,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mushroom potato",
+				"itemId": 7058,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel dart",
+				"itemId": 808,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 150000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy kwuarm",
+				"itemId": 213,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Armadyl helmet",
+				"itemId": 11826,
+				"itemAmount": 1,
+				"rarity": 99,
+				"random": 0
+			},
+			{
+				"comment": "Armadyl chestplate",
+				"itemId": 11828,
+				"itemAmount": 1,
+				"rarity": 99,
+				"random": 0
+			},
+			{
+				"comment": "Armadyl chainskirt",
+				"itemId": 11830,
+				"itemAmount": 1,
+				"rarity": 99,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 1",
+				"itemId": 11818,
+				"itemAmount": 1,
+				"rarity": 99,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 2",
+				"itemId": 11820,
+				"itemAmount": 1,
+				"rarity": 99,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 3",
+				"itemId": 11822,
+				"itemAmount": 1,
+				"rarity": 99,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 2205,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Rune dart",
+				"itemId": 811,
+				"itemAmount": 35,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune dart",
+				"itemId": 811,
+				"itemAmount": 40,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Law rune",
+				"itemId": 563,
+				"itemAmount": 95,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Law rune",
+				"itemId": 563,
+				"itemAmount": 105,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune plateskirt",
+				"itemId": 1093,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamant platebody",
+				"itemId": 1123,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune kiteshield",
+				"itemId": 1201,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ranarr weed",
+				"itemId": 257,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ranarr seed",
+				"itemId": 5295,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Prayer potion(4)",
+				"itemId": 2434,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Saradomin brew(3)",
+				"itemId": 6687,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Super restore(4)",
+				"itemId": 3024,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Super defence(4)",
+				"itemId": 2442,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Magic potion(3)",
+				"itemId": 3042,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Diamond",
+				"itemId": 1602,
+				"itemAmount": 6,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Saradomin sword",
+				"itemId": 11838,
+				"itemAmount": 1,
+				"rarity": 127,
+				"random": 0
+			},
+			{
+				"comment": "Armadyl crossbow",
+				"itemId": 11785,
+				"itemAmount": 1,
+				"rarity": 508,
+				"random": 0
+			},
+			{
+				"comment": "Rune sword",
+				"itemId": 1289,
+				"itemAmount": 1,
+				"rarity": 406,
+				"random": 0
+			},
+			{
+				"comment": "Magic seed",
+				"itemId": 5316,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 210000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Saradomin's light",
+				"itemId": 13256,
+				"itemAmount": 1,
+				"rarity": 254,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 1",
+				"itemId": 11818,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 2",
+				"itemId": 11820,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 3",
+				"itemId": 11822,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Saradomin hilt",
+				"itemId": 11814,
+				"itemAmount": 1,
+				"rarity": 508,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 3165,
+		"npcDrops": [
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Smoke rune",
+				"itemId": 4697,
+				"itemAmount": 25,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Manta ray",
+				"itemId": 391,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mushroom potato",
+				"itemId": 7058,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel dart",
+				"itemId": 808,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 150000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy kwuarm",
+				"itemId": 213,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Armadyl helmet",
+				"itemId": 11826,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Armadyl chestplate",
+				"itemId": 11828,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Armadyl chainskirt",
+				"itemId": 11830,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 1",
+				"itemId": 11818,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 2",
+				"itemId": 11820,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 3",
+				"itemId": 11822,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 2206,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Steel dart",
+				"itemId": 808,
+				"itemAmount": 95,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel dart",
+				"itemId": 808,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Law rune",
+				"itemId": 563,
+				"itemAmount": 7,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Law rune",
+				"itemId": 563,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 97,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ranarr weed",
+				"itemId": 257,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 20000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Snape grass",
+				"itemId": 232,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Summer pie",
+				"itemId": 7218,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Unicorn horn",
+				"itemId": 238,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Monkfish",
+				"itemId": 7947,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 1",
+				"itemId": 11818,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 2",
+				"itemId": 11820,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 3",
+				"itemId": 11822,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Saradomin hilt",
+				"itemId": 11814,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Saradomin sword",
+				"itemId": 11838,
+				"itemAmount": 1,
+				"rarity": 5400,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 414,
+		"npcDrops": [
+			{
+				"comment": "Iron mace",
+				"itemId": 1420,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Iron dagger",
+				"itemId": 1203,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Air rune",
+				"itemId": 556,
+				"itemAmount": 7,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cosmic rune",
+				"itemId": 564,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 7,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 35000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Pure essence",
+				"itemId": 7937,
+				"itemAmount": 13,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fishing bait",
+				"itemId": 313,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Eye of newt",
+				"itemId": 221,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Iron ore",
+				"itemId": 440,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Iron kiteshield",
+				"itemId": 1191,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Mystic gloves (light)",
+				"itemId": 4115,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (easy)",
+				"itemId": 10228,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 415,
+		"npcDrops": [
+			{
+				"comment": "Ashes",
+				"itemId": 592,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Black sword",
+				"itemId": 1283,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Black axe",
+				"itemId": 1361,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel battleaxe",
+				"itemId": 1365,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril kiteshield",
+				"itemId": 1197,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune chainbody",
+				"itemId": 1113,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune med helm",
+				"itemId": 1147,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Air rune",
+				"itemId": 556,
+				"itemAmount": 50,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Blood rune",
+				"itemId": 565,
+				"itemAmount": 7,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Law rune",
+				"itemId": 563,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 46000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Lobster",
+				"itemId": 379,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Pure essence",
+				"itemId": 7937,
+				"itemAmount": 60,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cosmic talisman",
+				"itemId": 1454,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos talisman",
+				"itemId": 1452,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamantite bar",
+				"itemId": 2361,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Defence potion(3)",
+				"itemId": 133,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Abyssal whip",
+				"itemId": 4151,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (hard)",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 2207,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Steel dart",
+				"itemId": 808,
+				"itemAmount": 95,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel dart",
+				"itemId": 808,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 95,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Guam leaf",
+				"itemId": 249,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy marrentill",
+				"itemId": 201,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy tarromin",
+				"itemId": 203,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy harralander",
+				"itemId": 205,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ranarr weed",
+				"itemId": 257,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Irit leaf",
+				"itemId": 259,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy avantoe",
+				"itemId": 211,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 20000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Snape grass",
+				"itemId": 232,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Summer pie",
+				"itemId": 7218,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Unicorn horn",
+				"itemId": 238,
+				"itemAmount": 6,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Monkfish",
+				"itemId": 7946,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 1",
+				"itemId": 11818,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 2",
+				"itemId": 11820,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 3",
+				"itemId": 11822,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Saradomin hilt",
+				"itemId": 11814,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Saradomin sword",
+				"itemId": 11838,
+				"itemAmount": 1,
+				"rarity": 5400,
+				"random": 0
+			},
+			{
+				"comment": "Kwuarm",
+				"itemId": 263,
+				"itemAmount": 1,
+				"rarity": 99,
+				"random": 0
+			},
+			{
+				"comment": "Grimy cadantine",
+				"itemId": 215,
+				"itemAmount": 1,
+				"rarity": 99,
+				"random": 0
+			},
+			{
+				"comment": "Lantadyme",
+				"itemId": 2481,
+				"itemAmount": 1,
+				"rarity": 99,
+				"random": 0
+			},
+			{
+				"comment": "Grimy dwarf weed",
+				"itemId": 217,
+				"itemAmount": 1,
+				"rarity": 99,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 419,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Iron sword",
+				"itemId": 1279,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel dagger",
+				"itemId": 1207,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel longsword",
+				"itemId": 1295,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Iron javelin",
+				"itemId": 826,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Iron boots",
+				"itemId": 4121,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Water rune",
+				"itemId": 555,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Water rune",
+				"itemId": 555,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 4,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 6,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 7,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 4,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 6,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 300900,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Limpwurt root",
+				"itemId": 225,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mystic boots (dark)",
+				"itemId": 4107,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Cockatrice head",
+				"itemId": 7976,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (easy)",
+				"itemId": 10228,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 3428,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Water rune",
+				"itemId": 555,
+				"itemAmount": 70,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 37,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 12,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Green d'hide chaps",
+				"itemId": 1099,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Green d'hide body",
+				"itemId": 1135,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Green d'hide vamb",
+				"itemId": 1065,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril kiteshield",
+				"itemId": 1197,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril spear",
+				"itemId": 1243,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamant full helm",
+				"itemId": 1161,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Poison ivy seed",
+				"itemId": 5106,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Belladonna seed",
+				"itemId": 5281,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Kwuarm seed",
+				"itemId": 5299,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Irit seed",
+				"itemId": 5297,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Avantoe seed",
+				"itemId": 5298,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Toadflax seed",
+				"itemId": 5296,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cadantine seed",
+				"itemId": 5301,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cactus seed",
+				"itemId": 5280,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Guam leaf",
+				"itemId": 249,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy marrentill",
+				"itemId": 201,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy tarromin",
+				"itemId": 203,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy harralander",
+				"itemId": 205,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ranarr weed",
+				"itemId": 257,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Irit leaf",
+				"itemId": 259,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy avantoe",
+				"itemId": 211,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy kwuarm",
+				"itemId": 213,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 427,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Tiny elf crystal",
+				"itemId": 6103,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Bass",
+				"itemId": 365,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Lobster",
+				"itemId": 379,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Shark",
+				"itemId": 385,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamantite ore",
+				"itemId": 449,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune dagger",
+				"itemId": 1213,
+				"itemAmount": 1,
+				"rarity": 59,
+				"random": 0
+			},
+			{
+				"comment": "Rune med helm",
+				"itemId": 1147,
+				"itemAmount": 1,
+				"rarity": 59,
+				"random": 0
+			},
+			{
+				"comment": "Lantadyme seed",
+				"itemId": 5302,
+				"itemAmount": 1,
+				"rarity": 59,
+				"random": 0
+			},
+			{
+				"comment": "Dwarf weed seed",
+				"itemId": 5303,
+				"itemAmount": 1,
+				"rarity": 59,
+				"random": 0
+			},
+			{
+				"comment": "Snapdragon seed",
+				"itemId": 5300,
+				"itemAmount": 1,
+				"rarity": 59,
+				"random": 0
+			},
+			{
+				"comment": "Torstol seed",
+				"itemId": 5304,
+				"itemAmount": 1,
+				"rarity": 59,
+				"random": 0
+			},
+			{
+				"comment": "Grimy cadantine",
+				"itemId": 215,
+				"itemAmount": 1,
+				"rarity": 59,
+				"random": 0
+			},
+			{
+				"comment": "Lantadyme",
+				"itemId": 2481,
+				"itemAmount": 1,
+				"rarity": 59,
+				"random": 0
+			},
+			{
+				"comment": "Grimy dwarf weed",
+				"itemId": 217,
+				"itemAmount": 1,
+				"rarity": 59,
+				"random": 0
+			},
+			{
+				"comment": "New crystal bow",
+				"itemId": 4212,
+				"itemAmount": 1,
+				"rarity": 59,
+				"random": 0
+			},
+			{
+				"comment": "New crystal halberd full",
+				"itemId": 13091,
+				"itemAmount": 1,
+				"rarity": 59,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (hard)",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 59,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 100,
+		"npcDrops": [
+			{
+				"comment": "Bronze pickaxe",
+				"itemId": 1265,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Iron pickaxe",
+				"itemId": 1267,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 498,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Oyster",
+				"itemId": 407,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Oyster",
+				"itemId": 407,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Seaweed",
+				"itemId": 401,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Seaweed",
+				"itemId": 401,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Seaweed",
+				"itemId": 401,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Seaweed",
+				"itemId": 401,
+				"itemAmount": 4,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Seaweed",
+				"itemId": 401,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Oyster pearl",
+				"itemId": 411,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Empty oyster",
+				"itemId": 409,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Empty oyster",
+				"itemId": 409,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Empty oyster",
+				"itemId": 409,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Spinach roll",
+				"itemId": 1969,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Iron ore",
+				"itemId": 440,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coal",
+				"itemId": 453,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Copper ore",
+				"itemId": 436,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Tin ore",
+				"itemId": 438,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fishing bait",
+				"itemId": 313,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Opal bolt tips",
+				"itemId": 45,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cosmic talisman",
+				"itemId": 1454,
+				"itemAmount": 1,
+				"rarity": 29,
+				"random": 0
+			},
+			{
+				"comment": "Nature talisman",
+				"itemId": 1462,
+				"itemAmount": 1,
+				"rarity": 29,
+				"random": 0
+			},
+			{
+				"comment": "Edible seaweed",
+				"itemId": 403,
+				"itemAmount": 2,
+				"rarity": 29,
+				"random": 0
+			},
+			{
+				"comment": "Casket",
+				"itemId": 405,
+				"itemAmount": 1,
+				"rarity": 29,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 4005,
+		"npcDrops": [
+			{
+				"comment": "Big bones",
+				"itemId": 532,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Black 2h sword",
+				"itemId": 1313,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Black battleaxe",
+				"itemId": 1367,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Black axe",
+				"itemId": 1361,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune 2h sword",
+				"itemId": 1319,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune battleaxe",
+				"itemId": 1373,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamant sq shield",
+				"itemId": 1183,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune chainbody",
+				"itemId": 1113,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune med helm",
+				"itemId": 1147,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune full helm",
+				"itemId": 1163,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Death rune",
+				"itemId": 560,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 30,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Air rune",
+				"itemId": 556,
+				"itemAmount": 47,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Blood rune",
+				"itemId": 565,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamantite ore",
+				"itemId": 450,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamantite bar",
+				"itemId": 2362,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite ore",
+				"itemId": 452,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite bar",
+				"itemId": 2363,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 220000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Attack potion(3)",
+				"itemId": 121,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Shark",
+				"itemId": 385,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Shark",
+				"itemId": 385,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dark bow",
+				"itemId": 11235,
+				"itemAmount": 1,
+				"rarity": 49,
+				"random": 0
+			},
+			{
+				"comment": "Death talisman",
+				"itemId": 1456,
+				"itemAmount": 1,
+				"rarity": 49,
+				"random": 0
+			},
+			{
+				"comment": "Long bone",
+				"itemId": 10976,
+				"itemAmount": 1,
+				"rarity": 49,
+				"random": 0
+			},
+			{
+				"comment": "Curved bone",
+				"itemId": 10977,
+				"itemAmount": 1,
+				"rarity": 49,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (hard)",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 49,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 5862,
+		"npcDrops": [
+			{
+				"comment": "Lava battlestaff",
+				"itemId": 3053,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Battlestaff",
+				"itemId": 1392,
+				"itemAmount": 6,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune 2h sword",
+				"itemId": 1319,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune halberd",
+				"itemId": 3202,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Black d'hide body",
+				"itemId": 2503,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune full helm",
+				"itemId": 1163,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune axe",
+				"itemId": 1359,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune pickaxe",
+				"itemId": 1275,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune chainbody",
+				"itemId": 1113,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune platebody",
+				"itemId": 1127,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Pure essence",
+				"itemId": 7937,
+				"itemAmount": 300,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 300,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Death rune",
+				"itemId": 560,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Soul rune",
+				"itemId": 566,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Blood rune",
+				"itemId": 565,
+				"itemAmount": 60,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite bolts (unf)",
+				"itemId": 9381,
+				"itemAmount": 40,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cannonball",
+				"itemId": 2,
+				"itemAmount": 50,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Super restore(4)",
+				"itemId": 3024,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Torstol seed",
+				"itemId": 5304,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy torstol",
+				"itemId": 220,
+				"itemAmount": 6,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coal",
+				"itemId": 454,
+				"itemAmount": 120,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite ore",
+				"itemId": 452,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 200000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Unholy symbol",
+				"itemId": 1724,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Part summer pie",
+				"itemId": 7212,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ashes",
+				"itemId": 593,
+				"itemAmount": 50,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon bones",
+				"itemId": 537,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Wine of zamorak",
+				"itemId": 246,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire orb",
+				"itemId": 570,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Uncut diamond",
+				"itemId": 1618,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Primordial crystal",
+				"itemId": 13231,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Pegasian crystal",
+				"itemId": 13229,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Eternal crystal",
+				"itemId": 13227,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Smouldering stone",
+				"itemId": 13233,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Jar of souls",
+				"itemId": 13245,
+				"itemAmount": 1,
+				"rarity": 2000,
+				"random": 0
+			},
+			{
+				"comment": "Key master teleport",
+				"itemId": 13249,
+				"itemAmount": 3,
+				"rarity": 39,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 2215,
+		"npcDrops": [
+			{
+				"comment": "Big bones",
+				"itemId": 532,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Rune 2h sword",
+				"itemId": 1319,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune pickaxe",
+				"itemId": 1275,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune longsword",
+				"itemId": 1303,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune platebody",
+				"itemId": 1127,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 60,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 70,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamantite ore",
+				"itemId": 450,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamantite ore",
+				"itemId": 450,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coal",
+				"itemId": 454,
+				"itemAmount": 115,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coal",
+				"itemId": 454,
+				"itemAmount": 120,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 190000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 210000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Snapdragon seed",
+				"itemId": 5300,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Magic logs",
+				"itemId": 1514,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Magic logs",
+				"itemId": 1514,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Super restore(4)",
+				"itemId": 3024,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune sword",
+				"itemId": 1289,
+				"itemAmount": 1,
+				"rarity": 406,
+				"random": 0
+			},
+			{
+				"comment": "Bandos chestplate",
+				"itemId": 11832,
+				"itemAmount": 1,
+				"rarity": 384,
+				"random": 0
+			},
+			{
+				"comment": "Bandos tassets",
+				"itemId": 11834,
+				"itemAmount": 1,
+				"rarity": 384,
+				"random": 0
+			},
+			{
+				"comment": "Bandos boots",
+				"itemId": 11836,
+				"itemAmount": 1,
+				"rarity": 384,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 1",
+				"itemId": 11818,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 2",
+				"itemId": 11820,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 3",
+				"itemId": 11822,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Bandos hilt",
+				"itemId": 11812,
+				"itemAmount": 1,
+				"rarity": 508,
+				"random": 0
+			},
+			{
+				"comment": "Curved bone",
+				"itemId": 10977,
+				"itemAmount": 1,
+				"rarity": 5000,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 423,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Steel axe",
+				"itemId": 1353,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune arrow",
+				"itemId": 892,
+				"itemAmount": 12,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune dagger",
+				"itemId": 1213,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Red d'hide vamb",
+				"itemId": 2489,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 37,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 150,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Soul rune",
+				"itemId": 566,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Soul rune",
+				"itemId": 566,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 30000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ugthanki kebab",
+				"itemId": 1883,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ugthanki kebab",
+				"itemId": 1883,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril bar",
+				"itemId": 2359,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Earth battlestaff",
+				"itemId": 1399,
+				"itemAmount": 1,
+				"rarity": 59,
+				"random": 0
+			},
+			{
+				"comment": "Dragon chainbody",
+				"itemId": 3140,
+				"itemAmount": 1,
+				"rarity": 59,
+				"random": 0
+			},
+			{
+				"comment": "Grimy dwarf weed",
+				"itemId": 217,
+				"itemAmount": 1,
+				"rarity": 59,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 2216,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Steel dart",
+				"itemId": 808,
+				"itemAmount": 95,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel dart",
+				"itemId": 808,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cosmic rune",
+				"itemId": 564,
+				"itemAmount": 25,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cosmic rune",
+				"itemId": 564,
+				"itemAmount": 30,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 95,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 15000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 13000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Combat potion(3)",
+				"itemId": 9741,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Eye patch",
+				"itemId": 1025,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Shark",
+				"itemId": 385,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chilli potato",
+				"itemId": 7054,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Bandos chestplate",
+				"itemId": 11832,
+				"itemAmount": 1,
+				"rarity": 750,
+				"random": 0
+			},
+			{
+				"comment": "Bandos tassets",
+				"itemId": 11834,
+				"itemAmount": 1,
+				"rarity": 750,
+				"random": 0
+			},
+			{
+				"comment": "Bandos boots",
+				"itemId": 11836,
+				"itemAmount": 1,
+				"rarity": 750,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 1",
+				"itemId": 11818,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 2",
+				"itemId": 11820,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 3",
+				"itemId": 11822,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 2217,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Steel dart",
+				"itemId": 808,
+				"itemAmount": 95,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel dart",
+				"itemId": 808,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cosmic rune",
+				"itemId": 564,
+				"itemAmount": 25,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cosmic rune",
+				"itemId": 564,
+				"itemAmount": 30,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 95,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 15000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 13000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Combat potion(3)",
+				"itemId": 9741,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Eye patch",
+				"itemId": 1025,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Shark",
+				"itemId": 385,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chilli potato",
+				"itemId": 7054,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Bandos chestplate",
+				"itemId": 11832,
+				"itemAmount": 1,
+				"rarity": 750,
+				"random": 0
+			},
+			{
+				"comment": "Bandos tassets",
+				"itemId": 11834,
+				"itemAmount": 1,
+				"rarity": 750,
+				"random": 0
+			},
+			{
+				"comment": "Bandos boots",
+				"itemId": 11836,
+				"itemAmount": 1,
+				"rarity": 750,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 1",
+				"itemId": 11818,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 2",
+				"itemId": 11820,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 3",
+				"itemId": 11822,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 2090,
+		"npcDrops": [
+			{
+				"comment": "Big bones",
+				"itemId": 532,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Black sq shield",
+				"itemId": 1179,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel med helm",
+				"itemId": 1141,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Magic staff",
+				"itemId": 1389,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril spear",
+				"itemId": 1243,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril sword",
+				"itemId": 1285,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Iron arrow",
+				"itemId": 884,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 30,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Guam leaf",
+				"itemId": 249,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy marrentill",
+				"itemId": 201,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy tarromin",
+				"itemId": 203,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy harralander",
+				"itemId": 205,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ranarr weed",
+				"itemId": 257,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Irit leaf",
+				"itemId": 259,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy avantoe",
+				"itemId": 211,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Air rune",
+				"itemId": 556,
+				"itemAmount": 18,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Earth rune",
+				"itemId": 557,
+				"itemAmount": 27,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 6,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Law rune",
+				"itemId": 563,
+				"itemAmount": 6,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Blood rune",
+				"itemId": 565,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 7,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Death rune",
+				"itemId": 560,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 30000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel bar",
+				"itemId": 2353,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coal",
+				"itemId": 453,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel kiteshield",
+				"itemId": 1193,
+				"itemAmount": 1,
+				"rarity": 29,
+				"random": 0
+			},
+			{
+				"comment": "Grimy kwuarm",
+				"itemId": 213,
+				"itemAmount": 1,
+				"rarity": 29,
+				"random": 0
+			},
+			{
+				"comment": "Grimy cadantine",
+				"itemId": 215,
+				"itemAmount": 1,
+				"rarity": 29,
+				"random": 0
+			},
+			{
+				"comment": "Lantadyme",
+				"itemId": 2481,
+				"itemAmount": 1,
+				"rarity": 29,
+				"random": 0
+			},
+			{
+				"comment": "Grimy dwarf weed",
+				"itemId": 217,
+				"itemAmount": 1,
+				"rarity": 29,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (easy)",
+				"itemId": 10228,
+				"itemAmount": 1,
+				"rarity": 29,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 2218,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Steel dart",
+				"itemId": 808,
+				"itemAmount": 95,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel dart",
+				"itemId": 808,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cosmic rune",
+				"itemId": 564,
+				"itemAmount": 25,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cosmic rune",
+				"itemId": 564,
+				"itemAmount": 30,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 95,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 15000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 13000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Combat potion(3)",
+				"itemId": 9741,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Eye patch",
+				"itemId": 1025,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Shark",
+				"itemId": 385,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chilli potato",
+				"itemId": 7054,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Bandos chestplate",
+				"itemId": 11832,
+				"itemAmount": 1,
+				"rarity": 750,
+				"random": 0
+			},
+			{
+				"comment": "Bandos tassets",
+				"itemId": 11834,
+				"itemAmount": 1,
+				"rarity": 750,
+				"random": 0
+			},
+			{
+				"comment": "Bandos boots",
+				"itemId": 11836,
+				"itemAmount": 1,
+				"rarity": 750,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 1",
+				"itemId": 11818,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 2",
+				"itemId": 11820,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "Godsword shard 3",
+				"itemId": 11822,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 426,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Steel platelegs",
+				"itemId": 1069,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril axe",
+				"itemId": 1355,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril kiteshield",
+				"itemId": 1197,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamant full helm",
+				"itemId": 1161,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune dagger",
+				"itemId": 1213,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Law rune",
+				"itemId": 563,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 37,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 440000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Limpwurt root",
+				"itemId": 225,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Leaf-bladed sword",
+				"itemId": 11902,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Mystic robe bottom (dark)",
+				"itemId": 4103,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (hard)",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 6766,
+		"npcDrops": [
+			{
+				"comment": "Big bones",
+				"itemId": 532,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Red d'hide vamb",
+				"itemId": 2489,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mystic earth staff",
+				"itemId": 1407,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Earth battlestaff",
+				"itemId": 1399,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune med helm",
+				"itemId": 1147,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune chainbody",
+				"itemId": 1113,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune warhammer",
+				"itemId": 1347,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Iron ore",
+				"itemId": 441,
+				"itemAmount": 24,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Iron ore",
+				"itemId": 441,
+				"itemAmount": 35,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coal",
+				"itemId": 454,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coal",
+				"itemId": 454,
+				"itemAmount": 23,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite ore",
+				"itemId": 452,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite ore",
+				"itemId": 452,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Air rune",
+				"itemId": 556,
+				"itemAmount": 71,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Air rune",
+				"itemId": 556,
+				"itemAmount": 80,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 45,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 57,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 66,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 74,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Death rune",
+				"itemId": 560,
+				"itemAmount": 22,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Death rune",
+				"itemId": 560,
+				"itemAmount": 24,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 600000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Xerician fabric",
+				"itemId": 13383,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Lizardman fang",
+				"itemId": 13391,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Lizardman fang",
+				"itemId": 13391,
+				"itemAmount": 14,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chilli potato",
+				"itemId": 7054,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune battleaxe",
+				"itemId": 1373,
+				"itemAmount": 1,
+				"rarity": 99,
+				"random": 0
+			},
+			{
+				"comment": "Dragon warhammer",
+				"itemId": 13576,
+				"itemAmount": 1,
+				"rarity": 5000,
+				"random": 0
+			},
+			{
+				"comment": "Xeric's talisman (inert)",
+				"itemId": 13392,
+				"itemAmount": 1,
+				"rarity": 250,
+				"random": 0
+			},
+			{
+				"comment": "Long bone",
+				"itemId": 10976,
+				"itemAmount": 1,
+				"rarity": 99,
+				"random": 0
+			},
+			{
+				"comment": "Curved bone",
+				"itemId": 10977,
+				"itemAmount": 1,
+				"rarity": 99,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 239,
+		"npcDrops": [
+			{
+				"comment": "Black dragonhide",
+				"itemId": 1747,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Dragon bones",
+				"itemId": 536,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Rune longsword",
+				"itemId": 1303,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamant platebody",
+				"itemId": 1123,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamant kiteshield",
+				"itemId": 1199,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 300,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Air rune",
+				"itemId": 556,
+				"itemAmount": 300,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Blood rune",
+				"itemId": 565,
+				"itemAmount": 30,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Iron arrow",
+				"itemId": 884,
+				"itemAmount": 690,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Law rune",
+				"itemId": 563,
+				"itemAmount": 30,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite bolts",
+				"itemId": 9144,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite bolts",
+				"itemId": 9144,
+				"itemAmount": 25,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon dart tip",
+				"itemId": 11232,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon dart tip",
+				"itemId": 11232,
+				"itemAmount": 14,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon arrowtips",
+				"itemId": 11237,
+				"itemAmount": 14,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon arrowtips",
+				"itemId": 11237,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Amulet of power",
+				"itemId": 1731,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Yew logs",
+				"itemId": 1516,
+				"itemAmount": 150,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Shark",
+				"itemId": 385,
+				"itemAmount": 4,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Gold ore",
+				"itemId": 445,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite limbs",
+				"itemId": 9431,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite bar",
+				"itemId": 2363,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamantite bar",
+				"itemId": 2361,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon med helm",
+				"itemId": 1149,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "Dragon pickaxe",
+				"itemId": 12797,
+				"itemAmount": 1,
+				"rarity": 1500,
+				"random": 0
+			},
+			{
+				"comment": "Draconic visage",
+				"itemId": 11286,
+				"itemAmount": 1,
+				"rarity": 5000,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 2098,
+		"npcDrops": [
+			{
+				"comment": "Big bones",
+				"itemId": 532,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Iron arrow",
+				"itemId": 884,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Iron dagger",
+				"itemId": 1203,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Iron full helm",
+				"itemId": 1153,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel arrow",
+				"itemId": 886,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Iron kiteshield",
+				"itemId": 1191,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel longsword",
+				"itemId": 1295,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Water rune",
+				"itemId": 555,
+				"itemAmount": 7,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cosmic rune",
+				"itemId": 564,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Law rune",
+				"itemId": 563,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature rune",
+				"itemId": 561,
+				"itemAmount": 6,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mind rune",
+				"itemId": 558,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Guam leaf",
+				"itemId": 249,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy marrentill",
+				"itemId": 201,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy tarromin",
+				"itemId": 203,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy harralander",
+				"itemId": 205,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ranarr weed",
+				"itemId": 257,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Irit leaf",
+				"itemId": 259,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grimy avantoe",
+				"itemId": 211,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 88000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Limpwurt root",
+				"itemId": 225,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Iron 2h sword",
+				"itemId": 1309,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Mithril arrow",
+				"itemId": 888,
+				"itemAmount": 3,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Steel dagger",
+				"itemId": 1207,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Steel platebody",
+				"itemId": 1119,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Adamant arrow",
+				"itemId": 890,
+				"itemAmount": 5,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Death rune",
+				"itemId": 560,
+				"itemAmount": 3,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 2,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Grimy kwuarm",
+				"itemId": 213,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Grimy cadantine",
+				"itemId": 215,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Lantadyme",
+				"itemId": 2481,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Grimy dwarf weed",
+				"itemId": 217,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (easy)",
+				"itemId": 10228,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 498,
+		"npcDrops": [
+			{
+				"comment": "Ashes",
+				"itemId": 592,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 37,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 150,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Air rune",
+				"itemId": 556,
+				"itemAmount": 37,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune arrow",
+				"itemId": 892,
+				"itemAmount": 24,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite bolts",
+				"itemId": 9144,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamant battleaxe",
+				"itemId": 1371,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mithril plateskirt",
+				"itemId": 1085,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire battlestaff",
+				"itemId": 1393,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune dagger",
+				"itemId": 1213,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Air battlestaff",
+				"itemId": 1397,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Black d'hide vamb",
+				"itemId": 2491,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Red d'hide body",
+				"itemId": 2501,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune full helm",
+				"itemId": 1163,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune chainbody",
+				"itemId": 1113,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 80000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ugthanki kebab",
+				"itemId": 1883,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ugthanki kebab",
+				"itemId": 1883,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ugthanki kebab",
+				"itemId": 1883,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Shark",
+				"itemId": 385,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamantite bar",
+				"itemId": 2361,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Crossbow string",
+				"itemId": 9438,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Steel bar",
+				"itemId": 2353,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Magic logs",
+				"itemId": 1514,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coal",
+				"itemId": 454,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune 2h sword",
+				"itemId": 1319,
+				"itemAmount": 1,
+				"rarity": 49,
+				"random": 0
+			},
+			{
+				"comment": "Occult necklace",
+				"itemId": 12002,
+				"itemAmount": 1,
+				"rarity": 49,
+				"random": 0
+			},
+			{
+				"comment": "Dragon chainbody",
+				"itemId": 3140,
+				"itemAmount": 1,
+				"rarity": 49,
+				"random": 0
+			},
+			{
+				"comment": "Runite bar",
+				"itemId": 2363,
+				"itemAmount": 1,
+				"rarity": 49,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 2167,
+		"npcDrops": [
+			{
+				"comment": "Diamond",
+				"itemId": 1602,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Ruby",
+				"itemId": 1604,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Sapphire",
+				"itemId": 1608,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Lobster",
+				"itemId": 379,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Tokkul",
+				"itemId": 6529,
+				"itemAmount": 350,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Super attack(1)",
+				"itemId": 149,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Super strength(1)",
+				"itemId": 161,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune platebody",
+				"itemId": 1127,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune med helm",
+				"itemId": 1147,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune dagger",
+				"itemId": 1213,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Rune chainbody",
+				"itemId": 1113,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Death rune",
+				"itemId": 560,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Uncut onyx",
+				"itemId": 6571,
+				"itemAmount": 1,
+				"rarity": 44,
+				"random": 0
+			},
+			{
+				"comment": "Obsidian cape",
+				"itemId": 6568,
+				"itemAmount": 1,
+				"rarity": 44,
+				"random": 0
+			},
+			{
+				"comment": "Toktz-ket-xil",
+				"itemId": 6524,
+				"itemAmount": 1,
+				"rarity": 44,
+				"random": 0
+			},
+			{
+				"comment": "Toktz-xil-ul",
+				"itemId": 6522,
+				"itemAmount": 10,
+				"rarity": 44,
+				"random": 0
+			},
+			{
+				"comment": "Toktz-xil-ek",
+				"itemId": 6525,
+				"itemAmount": 1,
+				"rarity": 44,
+				"random": 0
+			},
+			{
+				"comment": "Toktz-mej-tal",
+				"itemId": 6526,
+				"itemAmount": 1,
+				"rarity": 44,
+				"random": 0
+			},
+			{
+				"comment": "Berserker necklace",
+				"itemId": 11128,
+				"itemAmount": 1,
+				"rarity": 44,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (easy)",
+				"itemId": 10228,
+				"itemAmount": 1,
+				"rarity": 44,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "Cyclops",
+		"npcId": 2463,
+		"npcDrops": [
+			{
+				"comment": "#",
+				"itemId": 532,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1309,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1101,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1217,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 869,
+				"itemAmount": 4,
+				"rarity": 5,
+				"random": 15
+			},
+			{
+				"comment": "#",
+				"itemId": 1283,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1297,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1207,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1424,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1281,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1365,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1105,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1311,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1295,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1141,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1313,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1311,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1209,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1299,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1430,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1317,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 470
+			},
+			{
+				"comment": "#",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "Cyclops",
+		"npcId": 2468,
+		"npcDrops": [
+			{
+				"comment": "#",
+				"itemId": 532,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1309,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1101,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1217,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 869,
+				"itemAmount": 4,
+				"rarity": 5,
+				"random": 15
+			},
+			{
+				"comment": "#",
+				"itemId": 1283,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1297,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1207,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1424,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1281,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1365,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1105,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1311,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1295,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1141,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1313,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1311,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1209,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1299,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1430,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1317,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 470
+			},
+			{
+				"comment": "#",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "Cyclops",
+		"npcId": 2467,
+		"npcDrops": [
+			{
+				"comment": "#",
+				"itemId": 532,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1309,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1101,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1217,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 869,
+				"itemAmount": 4,
+				"rarity": 5,
+				"random": 15
+			},
+			{
+				"comment": "#",
+				"itemId": 1283,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1297,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1207,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1424,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1281,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1365,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1105,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1311,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1295,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1141,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1313,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1311,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1209,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1299,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1430,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1317,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 470
+			},
+			{
+				"comment": "#",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "Cyclops",
+		"npcId": 2466,
+		"npcDrops": [
+			{
+				"comment": "#",
+				"itemId": 532,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1309,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1101,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1217,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 869,
+				"itemAmount": 4,
+				"rarity": 5,
+				"random": 15
+			},
+			{
+				"comment": "#",
+				"itemId": 1283,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1297,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1207,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1424,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1281,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1365,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1105,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1311,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1295,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1141,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1313,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1311,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1209,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1299,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1430,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1317,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 470
+			},
+			{
+				"comment": "#",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "Cyclops",
+		"npcId": 2465,
+		"npcDrops": [
+			{
+				"comment": "#",
+				"itemId": 532,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1309,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1101,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1217,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 869,
+				"itemAmount": 4,
+				"rarity": 5,
+				"random": 15
+			},
+			{
+				"comment": "#",
+				"itemId": 1283,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1297,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1207,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1424,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1281,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1365,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1105,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1311,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1295,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1141,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1313,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1311,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1209,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1299,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1430,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1317,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 470
+			},
+			{
+				"comment": "#",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "Cyclops",
+		"npcId": 2464,
+		"npcDrops": [
+			{
+				"comment": "#",
+				"itemId": 532,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1309,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1101,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1217,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 869,
+				"itemAmount": 4,
+				"rarity": 5,
+				"random": 15
+			},
+			{
+				"comment": "#",
+				"itemId": 1283,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1297,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1207,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1424,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1281,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1365,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1105,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1311,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1295,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1141,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1313,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1311,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1209,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1299,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1430,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1317,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 470
+			},
+			{
+				"comment": "#",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "Zulrah",
+		"npcId": 2042,
+		"npcDrops": [
+			{
+				"comment": "Zulrah's scales",
+				"itemId": 12934,
+				"itemAmount": 100,
+				"rarity": 1,
+				"random": 200
+			},
+			{
+				"comment": "Law rune",
+				"itemId": 563,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Death rune",
+				"itemId": 560,
+				"itemAmount": 300,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Chaos rune",
+				"itemId": 562,
+				"itemAmount": 500,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Pure essence",
+				"itemId": 7937,
+				"itemAmount": 1500,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Flax",
+				"itemId": 1780,
+				"itemAmount": 1000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Snakeskin",
+				"itemId": 6290,
+				"itemAmount": 35,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon bolt tips",
+				"itemId": 9193,
+				"itemAmount": 12,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Magic logs",
+				"itemId": 1514,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coal",
+				"itemId": 454,
+				"itemAmount": 300,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite ore",
+				"itemId": 452,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Zul-andra teleport",
+				"itemId": 12938,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Dragon bones",
+				"itemId": 537,
+				"itemAmount": 30,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coconut",
+				"itemId": 5975,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Grapes",
+				"itemId": 1988,
+				"itemAmount": 250,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Zulrah's scales",
+				"itemId": 12934,
+				"itemAmount": 500,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Battlestaff",
+				"itemId": 1392,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Raw shark",
+				"itemId": 384,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mahogany plank",
+				"itemId": 8783,
+				"itemAmount": 50,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Swamp tar",
+				"itemId": 1939,
+				"itemAmount": 1000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Saradomin brew(4)",
+				"itemId": 6686,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamantite bar",
+				"itemId": 2362,
+				"itemAmount": 25,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Tanzanite fang",
+				"itemId": 12922,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Magic fang",
+				"itemId": 12932,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Serpentine visage",
+				"itemId": 12927,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "Dragon med helm",
+				"itemId": 1149,
+				"itemAmount": 1,
+				"rarity": 74,
+				"random": 0
+			},
+			{
+				"comment": "Dragon halberd",
+				"itemId": 3204,
+				"itemAmount": 1,
+				"rarity": 74,
+				"random": 0
+			},
+			{
+				"comment": "Toadflax",
+				"itemId": 2999,
+				"itemAmount": 20,
+				"rarity": 74,
+				"random": 0
+			},
+			{
+				"comment": "Snapdragon",
+				"itemId": 3001,
+				"itemAmount": 20,
+				"rarity": 74,
+				"random": 0
+			},
+			{
+				"comment": "Dwarf weed",
+				"itemId": 268,
+				"itemAmount": 20,
+				"rarity": 74,
+				"random": 0
+			},
+			{
+				"comment": "Torstol",
+				"itemId": 270,
+				"itemAmount": 20,
+				"rarity": 74,
+				"random": 0
+			},
+			{
+				"comment": "Jar of swamp",
+				"itemId": 12936,
+				"itemAmount": 1,
+				"rarity": 74,
+				"random": 0
+			},
+			{
+				"comment": "Tanzanite mutagen",
+				"itemId": 13200,
+				"itemAmount": 1,
+				"rarity": 13107,
+				"random": 0
+			},
+			{
+				"comment": "Magma mutagen",
+				"itemId": 13201,
+				"itemAmount": 1,
+				"rarity": 13107,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 443,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Staff",
+				"itemId": 1379,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Earth rune",
+				"itemId": 557,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Earth rune",
+				"itemId": 557,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Earth rune",
+				"itemId": 557,
+				"itemAmount": 18,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Earth rune",
+				"itemId": 557,
+				"itemAmount": 36,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Fire rune",
+				"itemId": 554,
+				"itemAmount": 18,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Air rune",
+				"itemId": 556,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Air rune",
+				"itemId": 556,
+				"itemAmount": 18,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Blood rune",
+				"itemId": 565,
+				"itemAmount": 4,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 290000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Lava battlestaff",
+				"itemId": 3053,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Staff of fire",
+				"itemId": 1387,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Mystic hat (light)",
+				"itemId": 4109,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Mystic boots (light)",
+				"itemId": 4117,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Body rune",
+				"itemId": 559,
+				"itemAmount": 18,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Body rune",
+				"itemId": 559,
+				"itemAmount": 57,
+				"rarity": 39,
+				"random": 0
+			},
+			{
+				"comment": "Clue scroll (easy)",
+				"itemId": 10228,
+				"itemAmount": 1,
+				"rarity": 39,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 6504,
+		"npcDrops": [
+			{
+				"comment": "Rune pickaxe",
+				"itemId": 1275,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 9243,
+				"itemAmount": 100,
+				"rarity": 15,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1319,
+				"itemAmount": 1,
+				"rarity": 15,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 868,
+				"itemAmount": 60,
+				"rarity": 15,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 11920,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 7158,
+				"itemAmount": 1,
+				"rarity": 256,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 12605,
+				"itemAmount": 1,
+				"rarity": 512,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 562,
+				"itemAmount": 400,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 560,
+				"itemAmount": 300,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 565,
+				"itemAmount": 200,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1620,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1618,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 238,
+				"itemAmount": 100,
+				"rarity": 15,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 224,
+				"itemAmount": 500,
+				"rarity": 15,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 445,
+				"itemAmount": 300,
+				"rarity": 15,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 2,
+				"itemAmount": 250,
+				"rarity": 15,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1514,
+				"itemAmount": 100,
+				"rarity": 125,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1631,
+				"itemAmount": 1,
+				"rarity": 125,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 5315,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 5316,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 11936,
+				"itemAmount": 8,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 3024,
+				"itemAmount": 3,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 150000,
+				"rarity": 5,
+				"random": 5000
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 112,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 526,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 270,
+		"npcDrops": [
+			{
+				"comment": "Bones",
+				"itemId": 536,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "Bronze bar",
+				"itemId": 2349,
+				"itemAmount": 5,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 829,
+				"itemAmount": 30,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1123,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1355,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1197,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1315,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1303,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4585,
+				"itemAmount": 1,
+				"rarity": 2048,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 4587,
+				"itemAmount": 1,
+				"rarity": 2048,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 554,
+				"itemAmount": 2,
+				"rarity": 5,
+				"random": 8
+			},
+			{
+				"comment": "#",
+				"itemId": 9142,
+				"itemAmount": 2,
+				"rarity": 10,
+				"random": 8
+			},
+			{
+				"comment": "#",
+				"itemId": 563,
+				"itemAmount": 10,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 560,
+				"itemAmount": 25,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 565,
+				"itemAmount": 3,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 565,
+				"itemAmount": 15,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 868,
+				"itemAmount": 2,
+				"rarity": 128,
+				"random": 2
+			},
+			{
+				"comment": "#",
+				"itemId": 810,
+				"itemAmount": 16,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 1960000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 373,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 1
+			},
+			{
+				"comment": "#",
+				"itemId": 2361,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 2722,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 2075,
+		"npcDrops": [
+			{
+				"comment": "Big bones",
+				"itemId": 532,
+				"itemAmount": 1,
+				"rarity": 1,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 512,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1181,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1393,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 1333,
+				"itemAmount": 1,
+				"rarity": 128,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 554,
+				"itemAmount": 37,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 554,
+				"itemAmount": 50,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 554,
+				"itemAmount": 150,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 562,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 10
+			},
+			{
+				"comment": "#",
+				"itemId": 565,
+				"itemAmount": 5,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 561,
+				"itemAmount": 2,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 563,
+				"itemAmount": 4,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 892,
+				"itemAmount": 12,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 249,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 201,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 204,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 211,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 995,
+				"itemAmount": 15,
+				"rarity": 5,
+				"random": 285
+			},
+			{
+				"comment": "#",
+				"itemId": 2353,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 379,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 115,
+				"itemAmount": 1,
+				"rarity": 10,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 10976,
+				"itemAmount": 1,
+				"rarity": 400,
+				"random": 0
+			},
+			{
+				"comment": "#",
+				"itemId": 10977,
+				"itemAmount": 1,
+				"rarity": 5000,
+				"random": 0
+			}
+		]
+	},
+	{
+		"comment": "#",
+		"npcId": 319,
+		"npcDrops": [
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 500000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Uncut sapphire",
+				"itemId": 1623,
+				"itemAmount": 10,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Uncut emerald",
+				"itemId": 1621,
+				"itemAmount": 8,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Uncut ruby",
+				"itemId": 1619,
+				"itemAmount": 6,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Uncut diamond",
+				"itemId": 1617,
+				"itemAmount": 6,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Nature talisman",
+				"itemId": 1462,
+				"itemAmount": 6,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Spirit shield",
+				"itemId": 12829,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamant arrow",
+				"itemId": 890,
+				"itemAmount": 750,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite bolts",
+				"itemId": 9144,
+				"itemAmount": 250,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Cannonball",
+				"itemId": 2,
+				"itemAmount": 2000,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mystic fire staff",
+				"itemId": 1401,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mystic water staff",
+				"itemId": 1403,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mystic air staff",
+				"itemId": 1405,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mystic earth staff",
+				"itemId": 1407,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mystic robe top",
+				"itemId": 4091,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mystic robe bottom",
+				"itemId": 4093,
+				"itemAmount": 1,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Onyx bolts (e)",
+				"itemId": 9245,
+				"itemAmount": 175,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Pure essence",
+				"itemId": 7937,
+				"itemAmount": 2500,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Law rune",
+				"itemId": 563,
+				"itemAmount": 250,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Death rune",
+				"itemId": 560,
+				"itemAmount": 300,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Soul rune",
+				"itemId": 566,
+				"itemAmount": 250,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamantite ore",
+				"itemId": 450,
+				"itemAmount": 125,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Runite ore",
+				"itemId": 452,
+				"itemAmount": 20,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Adamantite bar",
+				"itemId": 2362,
+				"itemAmount": 35,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Teak plank",
+				"itemId": 8781,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Mahogany logs",
+				"itemId": 8836,
+				"itemAmount": 150,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Magic logs",
+				"itemId": 1514,
+				"itemAmount": 75,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Green dragonhide",
+				"itemId": 1754,
+				"itemAmount": 100,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Raw shark",
+				"itemId": 384,
+				"itemAmount": 70,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "White berries",
+				"itemId": 240,
+				"itemAmount": 120,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Tuna potato",
+				"itemId": 7060,
+				"itemAmount": 30,
+				"rarity": 5,
+				"random": 0
+			},
+			{
+				"comment": "Elysian sigil",
+				"itemId": 12819,
+				"itemAmount": 1,
+				"rarity": 4095,
+				"random": 0
+			},
+			{
+				"comment": "Spectral sigil",
+				"itemId": 12823,
+				"itemAmount": 1,
+				"rarity": 1365,
+				"random": 0
+			},
+			{
+				"comment": "Arcane sigil",
+				"itemId": 12827,
+				"itemAmount": 1,
+				"rarity": 1365,
+				"random": 0
+			},
+			{
+				"comment": "Coins",
+				"itemId": 995,
+				"itemAmount": 200000,
+				"rarity": 74,
+				"random": 0
+			},
+			{
+				"comment": "Shield left half",
+				"itemId": 2366,
+				"itemAmount": 1,
+				"rarity": 74,
+				"random": 0
+			},
+			{
+				"comment": "Dragon spear",
+				"itemId": 1249,
+				"itemAmount": 1,
+				"rarity": 74,
+				"random": 0
+			},
+			{
+				"comment": "Holy elixir",
+				"itemId": 12833,
+				"itemAmount": 1,
+				"rarity": 74,
+				"random": 0
+			}
+		]
+	}
+]
